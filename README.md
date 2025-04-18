@@ -17,7 +17,8 @@ Exemplos: Redes Neurais Artificiais, Sistemas Imunológicos Artificiais, Computa
 
 Um dos estudos desse projeto foi a implementação de um modelo **Perceptron** para classificar duas diferentes espécies da flor Iris, os resultados obtidos se encontram no arquivo de Relatório.
 
-![Modelo Perceptron](https://aiml.com/wp-content/uploads/2023/09/perceptron-a-neuron-2.png)
+
+<img src="https://aiml.com/wp-content/uploads/2023/09/perceptron-a-neuron-2.png"  width="100%" height="280"/>
 
 # Combinando algoritmo genético (AG) com Perceptron
 
