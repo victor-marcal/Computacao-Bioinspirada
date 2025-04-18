@@ -62,7 +62,7 @@ Siga os passos abaixo para executar o projeto localmente utilizando **Python** e
 git clone https://github.com/victor-marcal/Computacao-Bioinspirada.git
 ```
 
-### 3. Alternativa via Google Colab
+### Alternativa via Google Colab
 
 Acesse o [Google Colab](https://colab.research.google.com) vá em "Abrir notebook" escolha o método via GitHub e informe o endereço: https://github.com/victor-marcal/Computacao-Bioinspirada.git
 
