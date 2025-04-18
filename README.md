@@ -69,8 +69,8 @@ Acesse o [Google Colab](https://colab.research.google.com) vá em "Abrir noteboo
 
 # Contato
 
-- [LinkedIn](https://www.linkedin.com/in/victor-hugo-buiatti/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="25" height="20" style="vertical-align: middle;"/>
-- victorhugobuiatti@gmail.com - victorhugobuiatti@gmail.com <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="25" height="20" style="vertical-align: middle;"/>
+- [LinkedIn](https://www.linkedin.com/in/victor-hugo-buiatti/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="25" height="20" style="vertical-align: middle;" margin-bottom="0"/>
+- victorhugobuiatti@gmail.com <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="25" height="20" style="vertical-align: middle;" margin-bottom="0"/>
 
 
 ## Referências
